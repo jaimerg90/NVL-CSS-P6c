@@ -1,0 +1,49 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ingredientes{
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.preparacion{
+    width: 33%;
+    height: 300px;
+    padding: 10px;
+    margin-left: 50px
+}
+
+div img{
+    float: right;
+    margin-top: 100px;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    margin-right: 150px;
+}
+
+[tipo="vegetal"]{
+    color: green;
+}
+
+[tipo^="condimento"]{
+    color: blue;
+}
+
+p{
+    margin-left: 50px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+form{
+    margin-left: 50px;
+    padding: 10px;
+}
+
+
+
